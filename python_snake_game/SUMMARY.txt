@@ -1,0 +1,19 @@
+Python Snake Game - Summary
+
+This package contains a complete implementation of the classic Snake game using Python and Pygame.
+
+Contents:
+- main.py: The main game implementation
+- requirements.txt: Lists the required Python packages
+- README.md: Detailed instructions on how to install and run the game
+- run_game.bat: Windows batch file for easy execution
+- run_game.sh: Linux/Mac shell script for easy execution
+
+How to play:
+1. Double-click run_game.bat (Windows) or run_game.sh (Linux/Mac) to automatically install dependencies and start the game
+2. Alternatively, manually install dependencies with "pip install -r requirements.txt" and run with "python main.py"
+3. Use arrow keys to control the snake
+4. Eat the red food to grow and increase your score
+5. Avoid hitting the walls or the snake's own body
+
+Enjoy the game!
