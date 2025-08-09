@@ -1,2 +1,1 @@
-# snakegamebeta
-game is beta
+run is main and thank you for download
